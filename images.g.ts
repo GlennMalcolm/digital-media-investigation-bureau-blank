@@ -22,44 +22,6 @@ namespace myImages {
 . . . . . f f f f f . . . . . . 
 . . . . . f f . f f . . . . . . 
 `;
-            case "HR6MQZ`+AH8fF_EGjDHy":
-            case "influencer1":return img`
-. . . . . . . . . f f f f f . . 
-. . . . . . . . f c c f f c c . 
-. . . . . . . f f f c c c c f f 
-c c c c c c . f e e e f f f f f 
-1 1 1 1 1 c . f f f e e e e f f 
-1 1 1 1 1 f f f e e e e f f e f 
-1 3 1 3 1 e e f e f 1 1 e e e f 
-1 3 3 3 1 e e f e f f f e e e f 
-1 1 3 1 1 f 1 1 e f f 2 e e f f 
-1 1 1 1 1 c c 1 1 f 2 2 e f f . 
-c c c c c c . c b 1 1 1 f e e f 
-. . . . . . . . c 1 1 1 f e e f 
-. . . . . . . . c c 6 6 6 f f . 
-. . . . . . . . . 8 6 8 6 8 . . 
-. . . . . . . . f f f . f f f . 
-. . . . . . . c c f f . f f c c 
-`;
-            case "image5":
-            case "YouB":return img`
-. . . . . . f 5 5 5 5 . . . . . 
-. . . . f f f f f f 5 5 . . . . 
-. . . . f f f f f f f f 5 . . . 
-. . . f f f f f f f f f 5 . . . 
-. . . f f 8 8 8 8 8 8 f f . . . 
-. . . f f 1 1 e e 1 1 f f . . . 
-. . . . e 1 f d d f 1 e . . . . 
-. . . . c d d d d d d c . . . . 
-. . . . c d d f d d d c . . . . 
-. . . c c c e e e e c c c . . . 
-. . . c f 7 7 7 7 7 7 f c . . . 
-. . . d f 4 4 4 4 4 4 f d . . . 
-. . . d f 7 7 7 7 7 7 f d . . . 
-. . . e f 2 2 2 2 2 2 f e . . . 
-. . . . . f f f f f f . . . . . 
-. . . . . f f . . f f . . . . . 
-`;
             case "image6":
             case "Influencer2":return img`
 . . . . . . . . . f f f f f . . 
@@ -97,6 +59,63 @@ c c c c c c . c b 1 1 1 b d d b
 . . . . . . . . . 8 6 8 6 8 . . 
 . . . . . . . . f f f . f f f . 
 . . . . . . . c c f f . f f c c 
+`;
+            case "HR6MQZ`+AH8fF_EGjDHy":
+            case "influencer1":return img`
+. . . . . . . . . f f f f f . . 
+. . . . . . . . f c c f f c c . 
+. . . . . . . f f f c c c c f f 
+c c c c c c . f e e e f f f f f 
+1 1 1 1 1 c . f f f e e e e f f 
+1 1 1 1 1 f f f e e e e f f e f 
+1 3 1 3 1 e e f e f 1 1 e e e f 
+1 3 3 3 1 e e f e f f f e e e f 
+1 1 3 1 1 f 1 1 e f f 2 e e f f 
+1 1 1 1 1 c c 1 1 f 2 2 e f f . 
+c c c c c c . c b 1 1 1 f e e f 
+. . . . . . . . c 1 1 1 f e e f 
+. . . . . . . . c c 6 6 6 f f . 
+. . . . . . . . . 8 6 8 6 8 . . 
+. . . . . . . . f f f . f f f . 
+. . . . . . . c c f f . f f c c 
+`;
+            case "image5":
+            case "YouB":return img`
+. . . . c c c b b b b b . . . . 
+. . c c b 4 4 4 4 4 4 b b b . . 
+. c c 4 4 4 4 4 5 4 4 4 4 b c . 
+. e 4 4 4 4 4 4 4 4 4 5 4 4 e . 
+e b 4 5 4 4 5 4 4 4 4 4 4 4 b c 
+e b 4 4 4 4 4 4 4 4 4 4 5 4 4 e 
+e b b 4 4 4 4 4 4 4 4 4 4 4 b e 
+. e b 4 4 4 4 4 5 4 4 4 4 b e . 
+8 7 e e b 4 4 4 4 4 4 b e e 6 8 
+8 7 2 e e e e e e e e e e 2 7 8 
+e 6 6 2 2 2 2 2 2 2 2 2 2 6 c e 
+e c 6 7 6 6 7 7 7 6 6 7 6 c c e 
+e b e 8 8 c c 8 8 c c c 8 e b e 
+e e b e c c e e e e e c e b e e 
+. e e b b 4 4 4 4 4 4 4 4 e e . 
+. . . c c c c c e e e e e . . . 
+`;
+            case "[nOz@P3Rmm@dv36pwH|Y":
+            case "You":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . f e e e 5 5 . . . . . 
+. . . . f e e e e e 5 5 . . . . 
+. . . f e e e e e e e e f . . . 
+. . . f f 8 8 8 8 8 8 f f . . . 
+. . . e f 1 f 4 4 f 1 f e . . . 
+. . . e f 1 f d d f 1 f e . . . 
+. . . . 4 d d d d d d 4 e . . . 
+. . . . e d d f d d d e . . . . 
+. . . . . e 4 4 4 4 e . . . . . 
+. . . e f 8 8 8 8 8 8 f e . . . 
+. . . e f 8 8 8 8 8 8 f e . . . 
+. . . d f 8 8 8 8 8 8 f d . . . 
+. . . 4 f d d d d d d f 4 . . . 
+. . . . . f f f f f f . . . . . 
+. . . . . f f . . f f . . . . . 
 `;
         }
         return null;

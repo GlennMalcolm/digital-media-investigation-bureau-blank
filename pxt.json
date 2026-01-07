@@ -3,7 +3,9 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-tilemaps": "github:microsoft/pxt-tilemaps/"
+        "pxt-tilemaps": "github:microsoft/pxt-tilemaps/",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
     },
     "files": [
         "main.blocks",
@@ -22,7 +24,7 @@
         "branch": "v2.0.62",
         "tag": "v2.0.62",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/78fef54853ad3c71c6dcf0886b1083107d9abad2",
-        "target": "2.0.62",
+        "target": "2.0.63",
         "pxt": "11.3.66",
         "targetId": "arcade"
     },
